@@ -1,0 +1,44 @@
+reason: response too long 
+label:0
+href:http://www.bookcake.com.tw/
+..........
+reason: response too long 
+label:0
+href:mailto:newmoo@ms15.hinet.net
+..........
+reason:404
+label:0
+href:http://cc.ee.ntu.edu.tw/~farn/courses/BCC/NTUEE/13.spring/RajUML4.ppt
+..........
+reason: response too long 
+label:0
+href:http://farn.bcc.ee.ntu.edu.tw/msvsu/
+..........
+reason: response too long 
+label:0
+href:http://farn.bcc.ee.ntu.edu.tw/msvsu/
+..........
+reason: response too long 
+label:0
+href:http://www.ebookdust.com/2011/01/download-free-book-visual-studio-net.html
+..........
+reason: response too long 
+label:0
+href:http://farn.bcc.ee.ntu.edu.tw/msvsu/
+..........
+reason: response too long 
+label:0
+href:mailto:farn@cc.ee.ntu.edu.tw
+..........
+reason: response too long 
+label:0
+href:mailto:b93901098@ntu.edu.tw
+..........
+reason: response too long 
+label:0
+href:mailto:farn@cc.ee.ntu.edu.tw
+..........
+reason: response too long 
+label:0
+href:mailto:middle@access.ee.ntu.edu.tw
+..........
